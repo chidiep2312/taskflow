@@ -81,3 +81,4 @@ npm run dev
 ## 📄 License
 
 This project is for learning and portfolio purposes.
+Live demo: http://103.142.26.97/
